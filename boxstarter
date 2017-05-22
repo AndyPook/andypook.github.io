@@ -73,8 +73,8 @@ cinst vscode-csharpextensions -y
 cinst vscode-mssql -y
 
 cinst AzureStorageExplorer -y
-
 cinst docker-for-windows -y
+cinst crashplan -y
 
 Enable-MicrosoftUpdate
 Install-WindowsUpdate -AcceptEula -Full -GetUpdatesFromMS
