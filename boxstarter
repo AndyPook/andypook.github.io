@@ -1,5 +1,5 @@
 Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtectedOSFiles -EnableShowFileExtensions -EnableShowFullPathInTitleBar -EnableOpenFileExplorerToQuickAccess -EnableShowRecentFilesInQuickAccess -EnableShowFrequentFoldersInQuickAccess -EnableExpandToOpenFolder
-Set-TaskbarOptions -Combine Always -AlwaysShowIconsOn
+Set-TaskbarOptions -size small -Combine Always -AlwaysShowIconsOn
 
 Enable-RemoteDesktop
 Update-ExecutionPolicy Unrestricted -Force
