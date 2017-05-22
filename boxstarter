@@ -3,73 +3,78 @@ Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtec
 Enable-RemoteDesktop
 Update-ExecutionPolicy Unrestricted -Force
 Disable-InternetExplorerESC
-Disable-BingSearch
 
-cinst chocolatey
-
-cinst Boxstarter
-cinst Boxstarter.Azure
-cinst Boxstarter.Bootstrapper
-cinst Boxstarter.Chocolatey
-cinst Boxstarter.Common
-cinst Boxstarter.HyperV
-cinst Boxstarter.WinConfig
-
-cinst 7zip
-cinst adobereader
-cinst AzureStorageExplorer
-cinst conemu
-cinst curl
-cinst DotNet3.5
-cinst DotNet4.5.1
-cinst DotNet4.6.1
-cinst DotNet4.6.2
-cinst fiddler4
-
-cinst git
-cinst git-credential-winstore
-cinst gitextensions
-cinst github
-cinst poshgit
-cinst sourcetree
-cinst diffmerge
-cinst tortoisegit
-
-cinst googlechrome.dev
-cinst googledrive
-cinst keepass
-cinst hashcheck
-cinst ilspy
-cinst linqpad
-cinst nodejs
-cinst notepad2
-cinst notepadplusplus
-cinst NuGet.CommandLine
-cinst office365homepremium
-cinst openlivewriter
-cinst paint.net
-cinst putty
-cinst scriptcs
-cinst skype
-cinst sql-server-management-studio
-cinst sysinternals
-cinst vlc
-cinst webpi
-cinst WindowsAzurePowershell
-cinst Wget
-cinst windirstat
-cinst zoomit
-
-cinst visualstudiocode
-cinst vscode-powershell
-cinst vscode-csharp
-cinst vscode-docker
-cinst vscode-csharpextensions
-cinst vscode-mssql
-
+# disable defrag because I have an SSD
+Get-ScheduledTask -TaskName *defrag* | Disable-ScheduledTask
 
 cinst Microsoft-Hyper-V-All -source windowsFeatures
 cinst TelnetClient -source windowsFeatures
 
+cinst Boxstarter -y
+cinst Boxstarter.Common -y
+cinst Boxstarter.Bootstrapper -y
+cinst Boxstarter.Chocolatey -y
+cinst Boxstarter.WinConfig -y
+cinst Boxstarter.HyperV -y
+cinst Boxstarter.Azure -y
+
+cinst DotNet3.5 -y
+cinst DotNet4.5.1 -y
+cinst DotNet4.6.1 -y
+cinst DotNet4.6.2 -y
+cinst DotNet4.7 -y
+
+cinst 7zip -y
+cinst adobereader -y
+cinst conemu -y
+cinst curl -y
+cinst fiddler4 -y
+
+cinst git -y
+cinst git-credential-winstore -y
+cinst gitextensions -y
+cinst github -y
+cinst poshgit -y
+cinst sourcetree -y
+cinst diffmerge -y
+cinst tortoisegit -y
+cinst gitkraken -y
+
+cinst googlechrome.dev -y
+cinst googledrive -y
+cinst keepass -y
+cinst hashcheck -y
+cinst ilspy -y
+cinst linqpad -y
+cinst nodejs -y
+cinst notepad2 -y
+cinst notepadplusplus -y
+cinst NuGet.CommandLine -y
+cinst office365homepremium -y
+cinst openlivewriter -y
+cinst paint.net -y
+cinst putty -y
+cinst scriptcs -y
+cinst skype -y
+cinst sql-server-management-studio -y
+cinst sysinternals -y
+cinst vlc -y
+cinst webpi -y
+cinst WindowsAzurePowershell -y
+cinst Wget -y
+cinst windirstat -y
+cinst zoomit -y
+
+cinst visualstudiocode -y
+cinst vscode-powershell -y
+cinst vscode-csharp -y
+cinst vscode-docker -y
+cinst vscode-csharpextensions -y
+cinst vscode-mssql -y
+
+cinst AzureStorageExplorer -y
+
+cinst docker-for-windows -y
+
 Enable-MicrosoftUpdate
-Install-WindowsUpdate -AcceptEula -Full
+Install-WindowsUpdate -AcceptEula -Full -GetUpdatesFromMS
