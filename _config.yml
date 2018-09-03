@@ -2,3 +2,5 @@ theme: jekyll-theme-slate
 title: Andy Pook
 description: Software + Skydiving
 avatar: https://gravatar.com/avatar/c2398503c4d9658709bd9bbe2989b330.jpg
+plugins:
+  - jekyll-redirect-from
