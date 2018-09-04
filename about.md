@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-A geek that skydives or a skydiver that geeks
+A geek that skydives, a skydiving geek
 
 ### Contact me
 
