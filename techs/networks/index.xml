@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>networks on A6k</title>
+    <link>https://localhost:1313/techs/networks/</link>
+    <description>Recent content in networks on A6k</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>© A6k</copyright>
+    <lastBuildDate>Thu, 30 Aug 2007 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://localhost:1313/techs/networks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Then Ltd</title>
+      <link>https://localhost:1313/cv/then/</link>
+      <pubDate>Thu, 30 Aug 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/cv/then/</guid>
+      <description>Introduced dotnet, C#, Asp.net. Developed customer facing web UI for storing, editing and scaling PDFs. Responsible for internal machines, servers and network including exposing the app to the internet.</description>
+    </item>
+    
+  </channel>
+</rss>

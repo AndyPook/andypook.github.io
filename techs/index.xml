@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Techs on A6k</title>
+    <link>https://localhost:1313/techs/</link>
+    <description>Recent content in Techs on A6k</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>© A6k</copyright>
+    <lastBuildDate>Fri, 29 Nov 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://localhost:1313/techs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>c#</title>
+      <link>https://localhost:1313/techs/c#/</link>
+      <pubDate>Fri, 29 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/techs/c#/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docker</title>
+      <link>https://localhost:1313/techs/docker/</link>
+      <pubDate>Fri, 29 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/techs/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dotnet Core</title>
+      <link>https://localhost:1313/techs/dotnet-core/</link>
+      <pubDate>Fri, 29 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/techs/dotnet-core/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kafka</title>
+      <link>https://localhost:1313/techs/kafka/</link>
+      <pubDate>Fri, 29 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/techs/kafka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kubernetes</title>
+      <link>https://localhost:1313/techs/kubernetes/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/techs/kubernetes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Api’s</title>
+      <link>https://localhost:1313/techs/apis/</link>
+      <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/techs/apis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AppServices</title>
+      <link>https://localhost:1313/techs/appservices/</link>
+      <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/techs/appservices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure</title>
+      <link>https://localhost:1313/techs/azure/</link>
+      <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/techs/azure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>caching</title>
+      <link>https://localhost:1313/techs/caching/</link>
+      <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/techs/caching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dotnetCore</title>
+      <link>https://localhost:1313/techs/dotnetcore/</link>
+      <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/techs/dotnetcore/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>git</title>
+      <link>https://localhost:1313/techs/git/</link>
+      <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/techs/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LogicApps</title>
+      <link>https://localhost:1313/techs/logicapps/</link>
+      <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/techs/logicapps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>messaging</title>
+      <link>https://localhost:1313/techs/messaging/</link>
+      <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/techs/messaging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>net46&#43;</title>
+      <link>https://localhost:1313/techs/net46&#43;/</link>
+      <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/techs/net46&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ServiceBus</title>
+      <link>https://localhost:1313/techs/servicebus/</link>
+      <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/techs/servicebus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vsts</title>
+      <link>https://localhost:1313/techs/vsts/</link>
+      <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/techs/vsts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>akka</title>
+      <link>https://localhost:1313/techs/akka/</link>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/techs/akka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>aspnetcore</title>
+      <link>https://localhost:1313/techs/aspnetcore/</link>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/techs/aspnetcore/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cosmosdb</title>
+      <link>https://localhost:1313/techs/cosmosdb/</link>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/techs/cosmosdb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>redis</title>
+      <link>https://localhost:1313/techs/redis/</link>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/techs/redis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>service bus</title>
+      <link>https://localhost:1313/techs/service-bus/</link>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/techs/service-bus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ServiceFabric</title>
+      <link>https://localhost:1313/techs/servicefabric/</link>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/techs/servicefabric/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL</title>
+      <link>https://localhost:1313/techs/sql/</link>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/techs/sql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D3</title>
+      <link>https://localhost:1313/techs/d3/</link>
+      <pubDate>Fri, 30 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/techs/d3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>javascript</title>
+      <link>https://localhost:1313/techs/javascript/</link>
+      <pubDate>Fri, 30 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/techs/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dotnet</title>
+      <link>https://localhost:1313/techs/dotnet/</link>
+      <pubDate>Sun, 31 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/techs/dotnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lucene</title>
+      <link>https://localhost:1313/techs/lucene/</link>
+      <pubDate>Sat, 28 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/techs/lucene/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ActiveX</title>
+      <link>https://localhost:1313/techs/activex/</link>
+      <pubDate>Thu, 30 Aug 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/techs/activex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BI</title>
+      <link>https://localhost:1313/techs/bi/</link>
+      <pubDate>Thu, 30 Aug 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/techs/bi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Delphi</title>
+      <link>https://localhost:1313/techs/delphi/</link>
+      <pubDate>Thu, 30 Aug 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/techs/delphi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>networks</title>
+      <link>https://localhost:1313/techs/networks/</link>
+      <pubDate>Thu, 30 Aug 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/techs/networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Notes</title>
+      <link>https://localhost:1313/techs/notes/</link>
+      <pubDate>Thu, 30 Aug 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/techs/notes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PowerHouse 4GL</title>
+      <link>https://localhost:1313/techs/powerhouse-4gl/</link>
+      <pubDate>Thu, 30 Apr 1998 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/techs/powerhouse-4gl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DataGeneral</title>
+      <link>https://localhost:1313/techs/datageneral/</link>
+      <pubDate>Wed, 30 Sep 1992 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/techs/datageneral/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scripting</title>
+      <link>https://localhost:1313/techs/scripting/</link>
+      <pubDate>Wed, 30 Sep 1992 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/techs/scripting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>unix</title>
+      <link>https://localhost:1313/techs/unix/</link>
+      <pubDate>Wed, 30 Sep 1992 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/techs/unix/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
