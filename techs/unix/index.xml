@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>unix on A6k</title>
-    <link>https://localhost:1313/techs/unix/</link>
+    <link>https://pook.info/techs/unix/</link>
     <description>Recent content in unix on A6k</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>© A6k</copyright>
     <lastBuildDate>Wed, 30 Sep 1992 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://localhost:1313/techs/unix/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pook.info/techs/unix/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Haynes Publishing</title>
-      <link>https://localhost:1313/cv/haynes/</link>
+      <link>https://pook.info/cv/haynes/</link>
       <pubDate>Wed, 30 Sep 1992 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/cv/haynes/</guid>
+      <guid>https://pook.info/cv/haynes/</guid>
       <description>Order processing, stock control, accounting. Cognos Powerhouse 4GL on Data General, migrated to unix. Created several systems level integrations between proprietary DG equipment and unix systems.</description>
     </item>
     

@@ -2,337 +2,337 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Techs on A6k</title>
-    <link>https://localhost:1313/techs/</link>
+    <link>https://pook.info/techs/</link>
     <description>Recent content in Techs on A6k</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>© A6k</copyright>
     <lastBuildDate>Fri, 29 Nov 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://localhost:1313/techs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pook.info/techs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>c#</title>
-      <link>https://localhost:1313/techs/c#/</link>
+      <link>https://pook.info/techs/c#/</link>
       <pubDate>Fri, 29 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/techs/c#/</guid>
+      <guid>https://pook.info/techs/c#/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Docker</title>
-      <link>https://localhost:1313/techs/docker/</link>
+      <link>https://pook.info/techs/docker/</link>
       <pubDate>Fri, 29 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/techs/docker/</guid>
+      <guid>https://pook.info/techs/docker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>dotnet Core</title>
-      <link>https://localhost:1313/techs/dotnet-core/</link>
+      <link>https://pook.info/techs/dotnet-core/</link>
       <pubDate>Fri, 29 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/techs/dotnet-core/</guid>
+      <guid>https://pook.info/techs/dotnet-core/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kafka</title>
-      <link>https://localhost:1313/techs/kafka/</link>
+      <link>https://pook.info/techs/kafka/</link>
       <pubDate>Fri, 29 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/techs/kafka/</guid>
+      <guid>https://pook.info/techs/kafka/</guid>
       <description></description>
     </item>
     
     <item>
       <title>kubernetes</title>
-      <link>https://localhost:1313/techs/kubernetes/</link>
+      <link>https://pook.info/techs/kubernetes/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/techs/kubernetes/</guid>
+      <guid>https://pook.info/techs/kubernetes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Api’s</title>
-      <link>https://localhost:1313/techs/apis/</link>
+      <link>https://pook.info/techs/apis/</link>
       <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/techs/apis/</guid>
+      <guid>https://pook.info/techs/apis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AppServices</title>
-      <link>https://localhost:1313/techs/appservices/</link>
+      <link>https://pook.info/techs/appservices/</link>
       <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/techs/appservices/</guid>
+      <guid>https://pook.info/techs/appservices/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Azure</title>
-      <link>https://localhost:1313/techs/azure/</link>
+      <link>https://pook.info/techs/azure/</link>
       <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/techs/azure/</guid>
+      <guid>https://pook.info/techs/azure/</guid>
       <description></description>
     </item>
     
     <item>
       <title>caching</title>
-      <link>https://localhost:1313/techs/caching/</link>
+      <link>https://pook.info/techs/caching/</link>
       <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/techs/caching/</guid>
+      <guid>https://pook.info/techs/caching/</guid>
       <description></description>
     </item>
     
     <item>
       <title>dotnetCore</title>
-      <link>https://localhost:1313/techs/dotnetcore/</link>
+      <link>https://pook.info/techs/dotnetcore/</link>
       <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/techs/dotnetcore/</guid>
+      <guid>https://pook.info/techs/dotnetcore/</guid>
       <description></description>
     </item>
     
     <item>
       <title>git</title>
-      <link>https://localhost:1313/techs/git/</link>
+      <link>https://pook.info/techs/git/</link>
       <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/techs/git/</guid>
+      <guid>https://pook.info/techs/git/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LogicApps</title>
-      <link>https://localhost:1313/techs/logicapps/</link>
+      <link>https://pook.info/techs/logicapps/</link>
       <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/techs/logicapps/</guid>
+      <guid>https://pook.info/techs/logicapps/</guid>
       <description></description>
     </item>
     
     <item>
       <title>messaging</title>
-      <link>https://localhost:1313/techs/messaging/</link>
+      <link>https://pook.info/techs/messaging/</link>
       <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/techs/messaging/</guid>
+      <guid>https://pook.info/techs/messaging/</guid>
       <description></description>
     </item>
     
     <item>
       <title>net46&#43;</title>
-      <link>https://localhost:1313/techs/net46&#43;/</link>
+      <link>https://pook.info/techs/net46&#43;/</link>
       <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/techs/net46&#43;/</guid>
+      <guid>https://pook.info/techs/net46&#43;/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ServiceBus</title>
-      <link>https://localhost:1313/techs/servicebus/</link>
+      <link>https://pook.info/techs/servicebus/</link>
       <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/techs/servicebus/</guid>
+      <guid>https://pook.info/techs/servicebus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>vsts</title>
-      <link>https://localhost:1313/techs/vsts/</link>
+      <link>https://pook.info/techs/vsts/</link>
       <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/techs/vsts/</guid>
+      <guid>https://pook.info/techs/vsts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>akka</title>
-      <link>https://localhost:1313/techs/akka/</link>
+      <link>https://pook.info/techs/akka/</link>
       <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/techs/akka/</guid>
+      <guid>https://pook.info/techs/akka/</guid>
       <description></description>
     </item>
     
     <item>
       <title>aspnetcore</title>
-      <link>https://localhost:1313/techs/aspnetcore/</link>
+      <link>https://pook.info/techs/aspnetcore/</link>
       <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/techs/aspnetcore/</guid>
+      <guid>https://pook.info/techs/aspnetcore/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cosmosdb</title>
-      <link>https://localhost:1313/techs/cosmosdb/</link>
+      <link>https://pook.info/techs/cosmosdb/</link>
       <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/techs/cosmosdb/</guid>
+      <guid>https://pook.info/techs/cosmosdb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>redis</title>
-      <link>https://localhost:1313/techs/redis/</link>
+      <link>https://pook.info/techs/redis/</link>
       <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/techs/redis/</guid>
+      <guid>https://pook.info/techs/redis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>service bus</title>
-      <link>https://localhost:1313/techs/service-bus/</link>
+      <link>https://pook.info/techs/service-bus/</link>
       <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/techs/service-bus/</guid>
+      <guid>https://pook.info/techs/service-bus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ServiceFabric</title>
-      <link>https://localhost:1313/techs/servicefabric/</link>
+      <link>https://pook.info/techs/servicefabric/</link>
       <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/techs/servicefabric/</guid>
+      <guid>https://pook.info/techs/servicefabric/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SQL</title>
-      <link>https://localhost:1313/techs/sql/</link>
+      <link>https://pook.info/techs/sql/</link>
       <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/techs/sql/</guid>
+      <guid>https://pook.info/techs/sql/</guid>
       <description></description>
     </item>
     
     <item>
       <title>D3</title>
-      <link>https://localhost:1313/techs/d3/</link>
+      <link>https://pook.info/techs/d3/</link>
       <pubDate>Fri, 30 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/techs/d3/</guid>
+      <guid>https://pook.info/techs/d3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>javascript</title>
-      <link>https://localhost:1313/techs/javascript/</link>
+      <link>https://pook.info/techs/javascript/</link>
       <pubDate>Fri, 30 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/techs/javascript/</guid>
+      <guid>https://pook.info/techs/javascript/</guid>
       <description></description>
     </item>
     
     <item>
       <title>dotnet</title>
-      <link>https://localhost:1313/techs/dotnet/</link>
+      <link>https://pook.info/techs/dotnet/</link>
       <pubDate>Sun, 31 Jul 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/techs/dotnet/</guid>
+      <guid>https://pook.info/techs/dotnet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lucene</title>
-      <link>https://localhost:1313/techs/lucene/</link>
+      <link>https://pook.info/techs/lucene/</link>
       <pubDate>Sat, 28 Feb 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/techs/lucene/</guid>
+      <guid>https://pook.info/techs/lucene/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ActiveX</title>
-      <link>https://localhost:1313/techs/activex/</link>
+      <link>https://pook.info/techs/activex/</link>
       <pubDate>Thu, 30 Aug 2007 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/techs/activex/</guid>
+      <guid>https://pook.info/techs/activex/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BI</title>
-      <link>https://localhost:1313/techs/bi/</link>
+      <link>https://pook.info/techs/bi/</link>
       <pubDate>Thu, 30 Aug 2007 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/techs/bi/</guid>
+      <guid>https://pook.info/techs/bi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Delphi</title>
-      <link>https://localhost:1313/techs/delphi/</link>
+      <link>https://pook.info/techs/delphi/</link>
       <pubDate>Thu, 30 Aug 2007 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/techs/delphi/</guid>
+      <guid>https://pook.info/techs/delphi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>networks</title>
-      <link>https://localhost:1313/techs/networks/</link>
+      <link>https://pook.info/techs/networks/</link>
       <pubDate>Thu, 30 Aug 2007 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/techs/networks/</guid>
+      <guid>https://pook.info/techs/networks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Notes</title>
-      <link>https://localhost:1313/techs/notes/</link>
+      <link>https://pook.info/techs/notes/</link>
       <pubDate>Thu, 30 Aug 2007 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/techs/notes/</guid>
+      <guid>https://pook.info/techs/notes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PowerHouse 4GL</title>
-      <link>https://localhost:1313/techs/powerhouse-4gl/</link>
+      <link>https://pook.info/techs/powerhouse-4gl/</link>
       <pubDate>Thu, 30 Apr 1998 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/techs/powerhouse-4gl/</guid>
+      <guid>https://pook.info/techs/powerhouse-4gl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DataGeneral</title>
-      <link>https://localhost:1313/techs/datageneral/</link>
+      <link>https://pook.info/techs/datageneral/</link>
       <pubDate>Wed, 30 Sep 1992 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/techs/datageneral/</guid>
+      <guid>https://pook.info/techs/datageneral/</guid>
       <description></description>
     </item>
     
     <item>
       <title>scripting</title>
-      <link>https://localhost:1313/techs/scripting/</link>
+      <link>https://pook.info/techs/scripting/</link>
       <pubDate>Wed, 30 Sep 1992 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/techs/scripting/</guid>
+      <guid>https://pook.info/techs/scripting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>unix</title>
-      <link>https://localhost:1313/techs/unix/</link>
+      <link>https://pook.info/techs/unix/</link>
       <pubDate>Wed, 30 Sep 1992 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/techs/unix/</guid>
+      <guid>https://pook.info/techs/unix/</guid>
       <description></description>
     </item>
     

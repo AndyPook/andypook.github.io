@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ActiveX on A6k</title>
-    <link>https://localhost:1313/techs/activex/</link>
+    <link>https://pook.info/techs/activex/</link>
     <description>Recent content in ActiveX on A6k</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>© A6k</copyright>
     <lastBuildDate>Thu, 30 Aug 2007 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://localhost:1313/techs/activex/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pook.info/techs/activex/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Whitelight</title>
-      <link>https://localhost:1313/cv/whitelight/</link>
+      <link>https://pook.info/cv/whitelight/</link>
       <pubDate>Thu, 30 Aug 2007 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/cv/whitelight/</guid>
+      <guid>https://pook.info/cv/whitelight/</guid>
       <description>Trainer, pre/post sales support and consultant on Whitelight ROLAP server product. Primarily aimed at data specialists, mostly in the financial sector. I created several custom desktop and html frontends to package the features for less technical users.</description>
     </item>
     

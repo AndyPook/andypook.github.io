@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Designs on A6k</title>
-    <link>https://localhost:1313/designs/</link>
+    <link>https://pook.info/designs/</link>
     <description>Recent content in Designs on A6k</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>© A6k</copyright>
     <lastBuildDate>Tue, 31 Jul 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://localhost:1313/designs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pook.info/designs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Photoshop</title>
-      <link>https://localhost:1313/designs/photoshop/</link>
+      <link>https://pook.info/designs/photoshop/</link>
       <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/designs/photoshop/</guid>
+      <guid>https://pook.info/designs/photoshop/</guid>
       <description></description>
     </item>
     

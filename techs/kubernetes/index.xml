@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>kubernetes on A6k</title>
-    <link>https://localhost:1313/techs/kubernetes/</link>
+    <link>https://pook.info/techs/kubernetes/</link>
     <description>Recent content in kubernetes on A6k</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>© A6k</copyright>
     <lastBuildDate>Thu, 28 Feb 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://localhost:1313/techs/kubernetes/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pook.info/techs/kubernetes/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>GfK</title>
-      <link>https://localhost:1313/cv/gfk/</link>
+      <link>https://pook.info/cv/gfk/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/cv/gfk/</guid>
+      <guid>https://pook.info/cv/gfk/</guid>
       <description>Scans sources for pricing information. Data is normalised, translated, aggregated into data stores with api’s and a web ui. Clients can then track actual selling prices of their products or competitor pricing policies.
 Processing via a messaging platform. Migration to dotnet Core, Linux containers, Kubernetes, Kafka. I worked across the system. Also created frameworks to ease creation of services and api’s, applying standards and cross cutting concerns. AWS, net46+, dotnetCore, RabbitMQ, Kafka, ElasticSearch, Api’s, caching, messaging, vsts, git, docker, kubernetes, helm</description>
     </item>

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>javascript on A6k</title>
-    <link>https://localhost:1313/techs/javascript/</link>
+    <link>https://pook.info/techs/javascript/</link>
     <description>Recent content in javascript on A6k</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>© A6k</copyright>
     <lastBuildDate>Fri, 30 Dec 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://localhost:1313/techs/javascript/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pook.info/techs/javascript/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Global Radio</title>
-      <link>https://localhost:1313/cv/globalradio/</link>
+      <link>https://pook.info/cv/globalradio/</link>
       <pubDate>Fri, 30 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/cv/globalradio/</guid>
+      <guid>https://pook.info/cv/globalradio/</guid>
       <description>Asp.net WebApi, Angular2, TypeScript, Kendo, dapper, SqlServer, CQS, RabbitMQ. Resolved several performance issues (mainly threading and async). Reworked backend framework, services and build system to improve DRYness and reduce developer friction.</description>
     </item>
     
