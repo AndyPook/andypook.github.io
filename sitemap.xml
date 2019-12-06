@@ -381,13 +381,19 @@
   </url>
   
   <url>
-    <loc>https://pook.info/andypook-resume.pdf</loc>
+    <loc>https://pook.info/cv.pdf/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://pook.info/andypook-resume.pdf</loc>
+    <loc>https://pook.info/m8/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pook.info/resume.pdf/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
