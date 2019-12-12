@@ -30,7 +30,7 @@
 <meta itemprop="description" content="Starting with Windows 1903, Explorer has started grouping Downloads by date&hellip; Super annoying.">
 <meta itemprop="datePublished" content="2019-12-05T18:04:58&#43;00:00" />
 <meta itemprop="dateModified" content="2019-12-05T18:04:58&#43;00:00" />
-<meta itemprop="wordCount" content="56">
+<meta itemprop="wordCount" content="60">
 
 
 
@@ -162,9 +162,16 @@
 ]
 
 <p>Starting with Windows 1903, Explorer has started grouping Downloads by date. You can right-click and change the grouping. But it will always revert to group-by date. Super annoying.</p>
-<p>In regedit find &ldquo;Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FolderTypes{885a186e-a440-4ada-812b-db871b942259}\TopViews{00000000-0000-0000-0000-000000000000}&rdquo;</p>
-<p>Right-click; Permissions; Advanced; Change owner to &ldquo;Administators&rdquo;; Change permissions to &ldquo;Full Control&rdquo;.</p>
-<p>Finally, delete all the keys that look like the do sorting/grouping.</p>
+<p>In regedit find</p>
+<pre><code>Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FolderTypes\{885a186e-a440-4ada-812b-db871b942259}\TopViews\{00000000-0000-0000-0000-000000000000}
+</code></pre><p>Right-click; Permissions; Advanced; Change owner to &ldquo;Administators&rdquo;; Change permissions to &ldquo;Full Control&rdquo;.</p>
+<p>Finally, delete all the keys that look like the do sorting/grouping</p>
+<ul>
+<li>GroupAscending</li>
+<li>GroupBy</li>
+<li>PrimaryProperty</li>
+<li>SortByList</li>
+</ul>
 <p>Solved!</p>
 
 
