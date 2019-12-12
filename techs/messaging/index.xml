@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>© A6k</copyright>
-    <lastBuildDate>Tue, 31 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://pook.info/techs/messaging/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Game</title>
+      <link>https://pook.info/cv/game/</link>
+      <pubDate>Fri, 29 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://pook.info/cv/game/</guid>
+      <description>Integrating legacy systems (JDA, WebSphere) with new Product Information Management system (Akeneo, Algolia). CSharp in dotnetcore, with docker, Kafka.
+Created build system with Bitbucket/Bamboo. Ensured consistency, testing, versioning across all libraries and services.
+Created app framework to simplify creation of services (logging, metrics, config etc) and producing/consuming events on Kafka and IBM MQ.</description>
+    </item>
+    
+    <item>
+      <title>GfK</title>
+      <link>https://pook.info/cv/gfk/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://pook.info/cv/gfk/</guid>
+      <description>Scans sources for pricing information. Data is normalised, translated, aggregated into data stores with api’s and a web ui. Clients can then track actual selling prices of their products or competitor pricing policies.
+Processing via a messaging platform. Migration to dotnet Core, Linux containers, Kubernetes, Kafka. I worked across the system. Also created frameworks to ease creation of services and api’s, applying standards and cross cutting concerns. AWS, net46+, dotnetCore, RabbitMQ, Kafka, ElasticSearch, Api’s, caching, messaging, vsts, git, docker, kubernetes, helm</description>
+    </item>
     
     <item>
       <title>Codit/SwissRe</title>

@@ -33,5 +33,16 @@ Created app framework to simplify creation of services (logging, metrics, config
 Processing via a messaging platform. Migration to dotnet Core, Linux containers, Kubernetes, Kafka. I worked across the system. Also created frameworks to ease creation of services and api’s, applying standards and cross cutting concerns. AWS, net46+, dotnetCore, RabbitMQ, Kafka, ElasticSearch, Api’s, caching, messaging, vsts, git, docker, kubernetes, helm</description>
     </item>
     
+    <item>
+      <title>Codit/SwissRe</title>
+      <link>https://pook.info/cv/codit/</link>
+      <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://pook.info/cv/codit/</guid>
+      <description>Uses authoritative sources to monitor events such as earthquakes and cyclones to automatically payout when the event matches the policy criteria. no human in the loop.
+As a team member I worked on many parts of the system: api&#39;s; message handlers; catastrophe impact calculation; policy processing; automated testing; deployment pipelines …
+Azure, net46+, dotnetCore, ServiceBus, AppServices, LogicApps, Api’s, caching, messaging, vsts, git</description>
+    </item>
+    
   </channel>
 </rss>

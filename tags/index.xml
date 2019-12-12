@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on A6k</title>
+    <link>https://pook.info/tags/</link>
+    <description>Recent content in Tags on A6k</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>© A6k</copyright>
+    <lastBuildDate>Thu, 12 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://pook.info/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>dotnet</title>
+      <link>https://pook.info/tags/dotnet/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://pook.info/tags/dotnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>link</title>
+      <link>https://pook.info/tags/link/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://pook.info/tags/link/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>k3s</title>
+      <link>https://pook.info/tags/k3s/</link>
+      <pubDate>Wed, 11 Dec 2019 13:56:00 +0000</pubDate>
+      
+      <guid>https://pook.info/tags/k3s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Windows</title>
+      <link>https://pook.info/tags/windows/</link>
+      <pubDate>Thu, 05 Dec 2019 18:04:58 +0000</pubDate>
+      
+      <guid>https://pook.info/tags/windows/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dev</title>
+      <link>https://pook.info/tags/dev/</link>
+      <pubDate>Fri, 25 Jan 2013 09:38:00 +0000</pubDate>
+      
+      <guid>https://pook.info/tags/dev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>silly</title>
+      <link>https://pook.info/tags/silly/</link>
+      <pubDate>Fri, 25 Jan 2013 09:29:00 +0000</pubDate>
+      
+      <guid>https://pook.info/tags/silly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lucene</title>
+      <link>https://pook.info/tags/lucene/</link>
+      <pubDate>Mon, 10 Dec 2012 15:44:00 +0000</pubDate>
+      
+      <guid>https://pook.info/tags/lucene/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

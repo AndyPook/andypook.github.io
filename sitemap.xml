@@ -3,28 +3,77 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://pook.info/</loc>
-    <lastmod>2019-12-10T14:00:00+00:00</lastmod>
+    <loc>https://pook.info/post/2019/configureawait-faq/</loc>
+    <lastmod>2019-12-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://pook.info/post/k3s-cgroups/</loc>
-    <lastmod>2019-12-10T14:00:00+00:00</lastmod>
+    <loc>https://pook.info/tags/dotnet/</loc>
+    <lastmod>2019-12-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pook.info/</loc>
+    <lastmod>2019-12-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pook.info/tags/link/</loc>
+    <lastmod>2019-12-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://pook.info/post/</loc>
+    <lastmod>2019-12-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pook.info/tags/</loc>
+    <lastmod>2019-12-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pook.info/post/2019/k3s-disable-servicelb-after-install/</loc>
+    <lastmod>2019-12-11T13:56:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pook.info/tags/k3s/</loc>
+    <lastmod>2019-12-11T13:56:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pook.info/post/2019/k3s-cgroups/</loc>
     <lastmod>2019-12-10T14:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://pook.info/post/dont-group-downloads/</loc>
+    <loc>https://pook.info/tags/windows/</loc>
+    <lastmod>2019-12-05T18:04:58+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pook.info/post/2019/dont-group-downloads/</loc>
     <lastmod>2019-12-05T18:04:58+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -38,7 +87,7 @@
   </url>
   
   <url>
-    <loc>https://pook.info/techs/c#/</loc>
+    <loc>https://pook.info/techs/csharp/</loc>
     <lastmod>2019-11-29T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -80,6 +129,20 @@
   </url>
   
   <url>
+    <loc>https://pook.info/techs/messaging/</loc>
+    <lastmod>2019-11-29T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pook.info/techs/soap/</loc>
+    <lastmod>2019-11-29T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://pook.info/techs/</loc>
     <lastmod>2019-11-29T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -101,8 +164,8 @@
   </url>
   
   <url>
-    <loc>https://pook.info/techs/apis/</loc>
-    <lastmod>2018-07-31T00:00:00+00:00</lastmod>
+    <loc>https://pook.info/techs/rabbitmq/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -136,14 +199,7 @@
   </url>
   
   <url>
-    <loc>https://pook.info/designs/</loc>
-    <lastmod>2018-07-31T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://pook.info/techs/dotnetcore/</loc>
+    <loc>https://pook.info/techs/dotnet/</loc>
     <lastmod>2018-07-31T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -158,27 +214,6 @@
   
   <url>
     <loc>https://pook.info/techs/logicapps/</loc>
-    <lastmod>2018-07-31T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://pook.info/techs/messaging/</loc>
-    <lastmod>2018-07-31T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://pook.info/techs/net46&#43;/</loc>
-    <lastmod>2018-07-31T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://pook.info/designs/photoshop/</loc>
     <lastmod>2018-07-31T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -234,13 +269,6 @@
   </url>
   
   <url>
-    <loc>https://pook.info/techs/service-bus/</loc>
-    <lastmod>2018-02-28T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://pook.info/techs/servicefabric/</loc>
     <lastmod>2018-02-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -255,7 +283,21 @@
   </url>
   
   <url>
+    <loc>https://pook.info/techs/angular2/</loc>
+    <lastmod>2016-12-30T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://pook.info/techs/d3/</loc>
+    <lastmod>2016-12-30T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pook.info/techs/dapper/</loc>
     <lastmod>2016-12-30T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -276,14 +318,35 @@
   </url>
   
   <url>
-    <loc>https://pook.info/cv/connectionseducation/</loc>
-    <lastmod>2016-07-31T00:00:00+00:00</lastmod>
+    <loc>https://pook.info/techs/kendo/</loc>
+    <lastmod>2016-12-30T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://pook.info/techs/dotnet/</loc>
+    <loc>https://pook.info/techs/sqlserver/</loc>
+    <lastmod>2016-12-30T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pook.info/techs/typescript/</loc>
+    <lastmod>2016-12-30T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pook.info/techs/webapi/</loc>
+    <lastmod>2016-12-30T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pook.info/cv/connectionseducation/</loc>
     <lastmod>2016-07-31T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -299,6 +362,139 @@
   <url>
     <loc>https://pook.info/techs/lucene/</loc>
     <lastmod>2015-02-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pook.info/techs/teamcity/</loc>
+    <lastmod>2015-02-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pook.info/tags/dev/</loc>
+    <lastmod>2013-01-25T09:38:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pook.info/post/old/2013-more-numbers-every-awesome-programmer-must-know/</loc>
+    <lastmod>2013-01-25T09:38:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pook.info/post/old/2013-css-is-awesome/</loc>
+    <lastmod>2013-01-25T09:29:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pook.info/tags/silly/</loc>
+    <lastmod>2013-01-25T09:29:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pook.info/post/old/2012-how-do-you-annoy-a-web-developer/</loc>
+    <lastmod>2012-12-12T13:24:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pook.info/post/old/2012-stop-vs2012-shouting/</loc>
+    <lastmod>2012-12-12T13:24:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pook.info/tags/lucene/</loc>
+    <lastmod>2012-12-10T15:44:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pook.info/post/old/2011-lunecenet-sparse-faceted-search/</loc>
+    <lastmod>2012-12-10T15:44:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pook.info/post/old/2012-distinct-doesnt-work-the-way-you-think/</loc>
+    <lastmod>2012-08-29T09:55:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pook.info/post/old/2012-iequalitycomparer-trick/</loc>
+    <lastmod>2012-08-29T09:55:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pook.info/post/old/2012-webapi-addwithvalidation-method-not-found/</loc>
+    <lastmod>2012-08-24T10:09:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pook.info/post/old/2011-hidden-features-of-csharp/</loc>
+    <lastmod>2011-02-15T18:31:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pook.info/post/old/2011-its-not-just-standingup/</loc>
+    <lastmod>2011-02-15T18:31:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pook.info/post/old/2011-javascript-omg/</loc>
+    <lastmod>2011-02-15T18:31:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pook.info/post/old/2010-dont-just-roll-the-dice/</loc>
+    <lastmod>2010-03-17T11:35:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pook.info/post/old/2011-jsonp-ftw/</loc>
+    <lastmod>2010-03-09T11:18:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pook.info/post/old/2010-tfs-considered-dangerous/</loc>
+    <lastmod>2010-03-09T11:18:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pook.info/post/old/2010-enabling-sqlserver-through-windows-firewall/</loc>
+    <lastmod>2010-03-08T12:47:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -388,13 +584,6 @@
   </url>
   
   <url>
-    <loc>https://pook.info/techs/scripting/</loc>
-    <lastmod>1992-09-30T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://pook.info/techs/unix/</loc>
     <lastmod>1992-09-30T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -415,6 +604,18 @@
   
   <url>
     <loc>https://pook.info/resume.pdf/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pook.info/designs/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pook.info/t/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

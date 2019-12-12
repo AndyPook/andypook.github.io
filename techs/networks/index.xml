@@ -21,5 +21,14 @@
       <description>Introduced dotnet, C#, Asp.net. Developed customer facing web UI for storing, editing and scaling PDFs. Responsible for internal machines, servers and network including exposing the app to the internet.</description>
     </item>
     
+    <item>
+      <title>Whitelight</title>
+      <link>https://pook.info/cv/whitelight/</link>
+      <pubDate>Thu, 30 Aug 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://pook.info/cv/whitelight/</guid>
+      <description>Trainer, pre/post sales support and consultant on Whitelight ROLAP server product. Primarily aimed at data specialists, mostly in the financial sector. I created several custom desktop and html frontends to package the features for less technical users.</description>
+    </item>
+    
   </channel>
 </rss>

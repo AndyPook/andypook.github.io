@@ -13,11 +13,11 @@
     
     
     <item>
-      <title>c#</title>
-      <link>https://pook.info/techs/c#/</link>
+      <title>csharp</title>
+      <link>https://pook.info/techs/csharp/</link>
       <pubDate>Fri, 29 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pook.info/techs/c#/</guid>
+      <guid>https://pook.info/techs/csharp/</guid>
       <description></description>
     </item>
     
@@ -49,6 +49,24 @@
     </item>
     
     <item>
+      <title>messaging</title>
+      <link>https://pook.info/techs/messaging/</link>
+      <pubDate>Fri, 29 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://pook.info/techs/messaging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SOAP</title>
+      <link>https://pook.info/techs/soap/</link>
+      <pubDate>Fri, 29 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://pook.info/techs/soap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>kubernetes</title>
       <link>https://pook.info/techs/kubernetes/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
@@ -58,11 +76,11 @@
     </item>
     
     <item>
-      <title>Api’s</title>
-      <link>https://pook.info/techs/apis/</link>
-      <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
+      <title>RabbitMQ</title>
+      <link>https://pook.info/techs/rabbitmq/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://pook.info/techs/apis/</guid>
+      <guid>https://pook.info/techs/rabbitmq/</guid>
       <description></description>
     </item>
     
@@ -94,11 +112,11 @@
     </item>
     
     <item>
-      <title>dotnetCore</title>
-      <link>https://pook.info/techs/dotnetcore/</link>
+      <title>dotnet</title>
+      <link>https://pook.info/techs/dotnet/</link>
       <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://pook.info/techs/dotnetcore/</guid>
+      <guid>https://pook.info/techs/dotnet/</guid>
       <description></description>
     </item>
     
@@ -117,24 +135,6 @@
       <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://pook.info/techs/logicapps/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>messaging</title>
-      <link>https://pook.info/techs/messaging/</link>
-      <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://pook.info/techs/messaging/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>net46&#43;</title>
-      <link>https://pook.info/techs/net46&#43;/</link>
-      <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://pook.info/techs/net46&#43;/</guid>
       <description></description>
     </item>
     
@@ -193,15 +193,6 @@
     </item>
     
     <item>
-      <title>service bus</title>
-      <link>https://pook.info/techs/service-bus/</link>
-      <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://pook.info/techs/service-bus/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>ServiceFabric</title>
       <link>https://pook.info/techs/servicefabric/</link>
       <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
@@ -220,11 +211,29 @@
     </item>
     
     <item>
+      <title>Angular2</title>
+      <link>https://pook.info/techs/angular2/</link>
+      <pubDate>Fri, 30 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://pook.info/techs/angular2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>D3</title>
       <link>https://pook.info/techs/d3/</link>
       <pubDate>Fri, 30 Dec 2016 00:00:00 +0000</pubDate>
       
       <guid>https://pook.info/techs/d3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dapper</title>
+      <link>https://pook.info/techs/dapper/</link>
+      <pubDate>Fri, 30 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://pook.info/techs/dapper/</guid>
       <description></description>
     </item>
     
@@ -238,11 +247,38 @@
     </item>
     
     <item>
-      <title>dotnet</title>
-      <link>https://pook.info/techs/dotnet/</link>
-      <pubDate>Sun, 31 Jul 2016 00:00:00 +0000</pubDate>
+      <title>Kendo</title>
+      <link>https://pook.info/techs/kendo/</link>
+      <pubDate>Fri, 30 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://pook.info/techs/dotnet/</guid>
+      <guid>https://pook.info/techs/kendo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SqlServer</title>
+      <link>https://pook.info/techs/sqlserver/</link>
+      <pubDate>Fri, 30 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://pook.info/techs/sqlserver/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TypeScript</title>
+      <link>https://pook.info/techs/typescript/</link>
+      <pubDate>Fri, 30 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://pook.info/techs/typescript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WebApi</title>
+      <link>https://pook.info/techs/webapi/</link>
+      <pubDate>Fri, 30 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://pook.info/techs/webapi/</guid>
       <description></description>
     </item>
     
@@ -252,6 +288,15 @@
       <pubDate>Sat, 28 Feb 2015 00:00:00 +0000</pubDate>
       
       <guid>https://pook.info/techs/lucene/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TeamCity</title>
+      <link>https://pook.info/techs/teamcity/</link>
+      <pubDate>Sat, 28 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://pook.info/techs/teamcity/</guid>
       <description></description>
     </item>
     
@@ -315,15 +360,6 @@
       <pubDate>Wed, 30 Sep 1992 00:00:00 +0000</pubDate>
       
       <guid>https://pook.info/techs/datageneral/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>scripting</title>
-      <link>https://pook.info/techs/scripting/</link>
-      <pubDate>Wed, 30 Sep 1992 00:00:00 +0000</pubDate>
-      
-      <guid>https://pook.info/techs/scripting/</guid>
       <description></description>
     </item>
     

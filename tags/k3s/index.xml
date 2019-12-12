@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>k3s on A6k</title>
+    <link>https://pook.info/tags/k3s/</link>
+    <description>Recent content in k3s on A6k</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>© A6k</copyright>
+    <lastBuildDate>Wed, 11 Dec 2019 13:56:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://pook.info/tags/k3s/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Disable ServiceLB after install</title>
+      <link>https://pook.info/post/2019/k3s-disable-servicelb-after-install/</link>
+      <pubDate>Wed, 11 Dec 2019 13:56:00 +0000</pubDate>
+      
+      <guid>https://pook.info/post/2019/k3s-disable-servicelb-after-install/</guid>
+      <description>Removing the default ServiceLB</description>
+    </item>
+    
+    <item>
+      <title>K3s cgroup setup</title>
+      <link>https://pook.info/post/2019/k3s-cgroups/</link>
+      <pubDate>Tue, 10 Dec 2019 14:00:00 +0000</pubDate>
+      
+      <guid>https://pook.info/post/2019/k3s-cgroups/</guid>
+      <description>Fixing cgroups in K3s on Alpine</description>
+    </item>
+    
+  </channel>
+</rss>
