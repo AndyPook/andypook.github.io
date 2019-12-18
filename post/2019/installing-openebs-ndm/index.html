@@ -30,11 +30,11 @@
 <meta itemprop="description" content="Installing dependencies of ropenebs on Alpine">
 <meta itemprop="datePublished" content="2019-12-18T17:50:00&#43;00:00" />
 <meta itemprop="dateModified" content="2019-12-18T17:50:00&#43;00:00" />
-<meta itemprop="wordCount" content="55">
+<meta itemprop="wordCount" content="64">
 
 
 
-<meta itemprop="keywords" content="k3s," />
+<meta itemprop="keywords" content="k8s," />
 </head>
 <body>
 
@@ -158,7 +158,7 @@
 
 
     
-      <a href="https://pook.info/tags/k3s/">k3s</a>
+      <a href="https://pook.info/tags/k8s/">k8s</a>
 ]
 
 <p>OpenEBS requires a few dependencies to be installed on Alpine.</p>
@@ -175,6 +175,8 @@ udev-settle start
 rc-update add udev sysinit
 rc-update add udev-trigger sysinit
 rc-update add udev-settle sysinit
+</code></pre></div><h4 id="install-openebs">Install OpenEBS</h4>
+<div class="highlight"><pre class="chroma"><code class="language-sh" data-lang="sh">helm install stable/openebs --name openebs --namespace openebs
 </code></pre></div>
 
     </main>

@@ -17,7 +17,7 @@
   </url>
   
   <url>
-    <loc>https://pook.info/tags/k3s/</loc>
+    <loc>https://pook.info/tags/k8s/</loc>
     <lastmod>2019-12-18T17:50:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -33,6 +33,13 @@
   <url>
     <loc>https://pook.info/tags/</loc>
     <lastmod>2019-12-18T17:50:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pook.info/post/2019/helm3/</loc>
+    <lastmod>2019-12-18T17:40:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
