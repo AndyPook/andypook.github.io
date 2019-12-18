@@ -3,6 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://pook.info/</loc>
+    <lastmod>2019-12-18T17:50:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pook.info/post/2019/installing-openebs-ndm/</loc>
+    <lastmod>2019-12-18T17:50:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pook.info/tags/k3s/</loc>
+    <lastmod>2019-12-18T17:50:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pook.info/post/</loc>
+    <lastmod>2019-12-18T17:50:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pook.info/tags/</loc>
+    <lastmod>2019-12-18T17:50:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://pook.info/post/2019/configureawait-faq/</loc>
     <lastmod>2019-12-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -17,13 +52,6 @@
   </url>
   
   <url>
-    <loc>https://pook.info/</loc>
-    <lastmod>2019-12-12T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://pook.info/tags/link/</loc>
     <lastmod>2019-12-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -31,28 +59,7 @@
   </url>
   
   <url>
-    <loc>https://pook.info/post/</loc>
-    <lastmod>2019-12-12T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://pook.info/tags/</loc>
-    <lastmod>2019-12-12T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://pook.info/post/2019/k3s-disable-servicelb-after-install/</loc>
-    <lastmod>2019-12-11T13:56:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://pook.info/tags/k3s/</loc>
     <lastmod>2019-12-11T13:56:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
