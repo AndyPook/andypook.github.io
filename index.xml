@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>© A6k</copyright>
-    <lastBuildDate>Wed, 18 Dec 2019 17:50:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://pook.info/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Testhost process exited with error</title>
+      <link>https://pook.info/post/2020/vstest/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://pook.info/post/2020/vstest/</guid>
+      <description>Microsoft.VisualStudio.TestPlatform.ObjectModel.TestPlatformException Testhost process exited with error It was not possible to find any compatible framework version The framework &amp;lsquo;Microsoft.NETCore.App&amp;rsquo;, version &amp;lsquo;2.2.0&amp;rsquo; was not found.</description>
+    </item>
     
     <item>
       <title>Installing OpenEBS - NDM</title>
